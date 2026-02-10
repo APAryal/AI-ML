@@ -23,3 +23,19 @@ print(myvar)
 # the version string is stored under _version_ attribute.
 import pandas as pd
 print(pd.__version__)
+# Get a quick overview by printing the first 10 rows of dataFrame:
+import pandas as pd
+df=pd.read_csv('data.csv')
+print(df.head(10))
+# print the first 5 rows of the DataFrame
+import pandas as pd
+df=pd.read_csv('data.csv')
+print(df.head())
+# print the last 5 rows of the DtatFrame:
+import pandas as pd
+df=pd.read_csv('data.csv')
+print(df.tail())
+# print the information about the data:
+import pandas as pd
+df=pd.read_csv('data.csv')
+print(df.info())
