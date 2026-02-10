@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Ram",
+    "age": 20,
+    "city": "Kathmandu",
+    "marks": 78,
+    "salary": 25000,
+    "experience": 1
+  },
+  {
+    "id": 2,
+    "name": "Sita",
+    "age": 22,
+    "city": "Pokhara",
+    "marks": 85,
+    "salary": 30000,
+    "experience": 2
+  },
+  {
+    "id": 3,
+    "name": "Hari",
+    "age": 24,
+    "city": "Lalitpur",
+    "marks": 65,
+    "salary": 22000,
+    "experience": 1
+  },
+  {
+    "id": 4,
+    "name": "Gita",
+    "age": 23,
+    "city": "Bhaktapur",
+    "marks": 90,
+    "salary": 35000,
+    "experience": 3
+  },
+  {
+    "id": 5,
+    "name": "Shyam",
+    "age": 26,
+    "city": "Butwal",
+    "marks": 55,
+    "salary": 20000,
+    "experience": 2
+  },
+  {
+    "id": 6,
+    "name": "Mina",
+    "age": 21,
+    "city": "Dharan",
+    "marks": 88,
+    "salary": 32000,
+    "experience": 2
+  },
+  {
+    "id": 7,
+    "name": "Ramesh",
+    "age": 27,
+    "city": "Biratnagar",
+    "marks": 72,
+    "salary": 28000,
+    "experience": 4
+  },
+  {
+    "id": 8,
+    "name": "Nisha",
+    "age": 25,
+    "city": "Hetauda",
+    "marks": 81,
+    "salary": 30000,
+    "experience": 3
+  },
+  {
+    "id": 9,
+    "name": "Kiran",
+    "age": 28,
+    "city": "Chitwan",
+    "marks": 60,
+    "salary": 24000,
+    "experience": 5
+  },
+  {
+    "id": 10,
+    "name": "Anita",
+    "age": 22,
+    "city": "Kathmandu",
+    "marks": 92,
+    "salary": 38000,
+    "experience": 2
+  }
+]
